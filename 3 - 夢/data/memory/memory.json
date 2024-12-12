@@ -1,0 +1,19 @@
+{
+    "Functions": [
+        {
+            "Path": "<BASIC>",
+            "Code": 0,
+            "Name": "exit"
+        }
+    ],
+    "Commands": [
+        {
+            "Text": "\\exit",
+            "Code": 0
+        },
+        {
+            "Text": "sair",
+            "Code": 0
+        }
+    ]
+}
